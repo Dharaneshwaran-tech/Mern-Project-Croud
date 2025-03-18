@@ -204,7 +204,7 @@ const App = () => {
             <h3 style={{ color: "#007BFF", marginBottom: "20px", textAlign: "center" }}>Meet Our CEO</h3>
             <div style={{ display: "flex", justifyContent: "center", alignItems: "center", flexWrap: "wrap" }}>
               <div style={{ width: "30%", margin: "10px", textAlign: "center" }}>
-                <img src="ceo.jpg" alt="CEO" style={{ width: "100%", borderRadius: "50%", marginBottom: "10px" }} />
+                <img src="https://media.licdn.com/dms/image/v2/D5603AQF96VdlPC4nDA/profile-displayphoto-shrink_400_400/B56ZUj7Zx8HoAo-/0/1740064530268?e=1747872000&v=beta&t=1tBSdpRymxAkRgb6qNwtC27-wZEn5MxKCVq-37tsMq8" alt="CEO" style={{ width: "100%", borderRadius: "50%", marginBottom: "10px" }} />
                 <h4 style={{ color: "#007BFF", marginBottom: "10px" }}>Dharaneshwaran K R</h4>
                 <p style={{ fontSize: "16px", color: "#333" }}>Co-Founder & CEO</p>
                 <p style={{ fontSize: "14px", color: "#666" }}>
