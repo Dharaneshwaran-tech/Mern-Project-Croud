@@ -375,7 +375,7 @@ const App = () => {
     <div style={{ display: "flex", justifyContent: "center" }}>
       <div style={{ ...projectCardStyle, width: "50%", display: "flex", flexDirection: "column", alignItems: "center", marginBottom: "20px" }}>
         <div style={{ width: "150px", height: "150px", borderRadius: "50%", backgroundColor: "#f0f8ff", display: "flex", justifyContent: "center", alignItems: "center", marginBottom: "20px" }}>
-          <img src="ceo.jpg" alt="CEO Dharaneshwaran K R" style={{ width: "100%", height: "100%", borderRadius: "50%", objectFit: "cover" }} />
+          <img src="https://media.licdn.com/dms/image/v2/D5603AQF96VdlPC4nDA/profile-displayphoto-shrink_400_400/B56ZUj7Zx8HoAo-/0/1740064530268?e=1748476800&v=beta&t=tEOMVbw7YuKJ8PikXloMVC4ARXfCsLyprO5pMWWlcFc" alt="CEO Dharaneshwaran K R" style={{ width: "100%", height: "100%", borderRadius: "50%", objectFit: "cover" }} />
         </div>
         <h4 style={{ color: "#007BFF", marginBottom: "10px", fontSize: "22px" }}>Dharaneshwaran K R</h4>
         <p style={{ fontSize: "16px", color: "#555", marginBottom: "15px", fontWeight: "500" }}>Co-Founder & CEO</p>
